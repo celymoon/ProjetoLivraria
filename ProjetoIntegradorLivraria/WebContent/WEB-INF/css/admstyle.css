@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+
+/**<TITULO>**/
+#Header{
+	background-color:#04395E;
+}
+
+.Title {
+color:#E7D1B1;
+font-family: 'Cinzel', serif;
+text-align:center;
+text-decoration: underline overline;
+}
+/**</TITULO>**/
+
+
+/** <NAV>  **/
+#NavBar{
+	background-color: #F1E4D0;
+}
+#AdmHome{
+	font-family: 'Cinzel', serif;
+	color:#031d44;
+}
+
+				/**			Welcome to Adm Line			**/
+
+	.WelcomeLine{
+	font-family: 'Cinzel', serif;
+	color:#031d44;
+	}
+
+
+/** </NAV>   **/
+
